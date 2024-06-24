@@ -7,7 +7,5 @@ int main()
     printf("%d\n",a);
     d=b*c;
     printf("the salary is %0.2f\n",d);
-
-
     return 0;
 }
